@@ -1,0 +1,14 @@
+fade
+pystyle
+mitmproxy
+semver
+survey
+ujson
+crayons
+requests
+console
+pypresence
+rich
+aiohttp
+psutil
+aiofiles
