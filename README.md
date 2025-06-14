@@ -1,8 +1,6 @@
-
-
 # Marcalachu Hybrid - Fortnite Cosmetics Proxy
 
-![Marcalachu Hybrid Screenshot](marcalachu_hybrid_screenshot.png)
+
 
 A Fortnite proxy modifier that allows access to all cosmetics, change username, level, crowns and more functionalities.
 
@@ -76,11 +74,37 @@ The `config.json` file contains all configurable options:
 - **Crowns**: Change the number of crowns
 - **Select Playlist**: Change game mode
 
-## ⚠️ Warnings
+## ⚠️ DISCLAIMER
 
-- This software is for educational and entertainment purposes only
-- Use it at your own risk
-- We are not responsible for possible consequences
+**IMPORTANT: READ BEFORE USING**
+
+This software is provided for **educational and research purposes only**. By using this software, you acknowledge and agree to the following:
+
+### Legal Notice
+- This tool modifies Fortnite game data through proxy manipulation
+- Using this software may violate Epic Games' Terms of Service
+- We are **NOT responsible** for any consequences including but not limited to:
+  - Account suspensions or permanent bans
+  - Legal action from Epic Games
+  - Loss of game progress or purchased content
+  - Any other damages or losses
+
+### Usage Responsibility
+- **Use at your own risk** - You are solely responsible for any consequences
+- This software is intended for educational purposes to understand game networking
+- The developers do not encourage or endorse violating any terms of service
+- Users should review Epic Games' Terms of Service before using this tool
+
+### No Warranty
+- This software is provided "as is" without any warranties
+- We make no guarantees about functionality, safety, or compatibility
+- The software may stop working due to game updates or security measures
+
+### Age Restriction
+- Users must be 18+ or have parental consent to use this software
+- Parents/guardians are responsible for minors' use of this tool
+
+**By using this software, you accept full responsibility for any consequences that may arise.**
 
 ## 🤝 Contributing
 
@@ -110,4 +134,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ If you like this project, give it a star on GitHub!
-
