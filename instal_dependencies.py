@@ -1,7 +1,7 @@
 
 #!/usr/bin/env python3
 """
-Script para instalar dependencias de PirxcyProxy
+Script para instalar dependencias de Marcalachu hybrid
 Maneja la compatibilidad entre Windows y Linux/Unix
 """
 
@@ -145,7 +145,7 @@ def gracefulExit():
         f.write(wrapper_content)
 
 def main():
-    print("🚀 PirxcyProxy - Instalador de Dependencias")
+    print("🚀 Marcalachu hybrid - Instalador de Dependencias")
     print("=" * 50)
 
     # Verificar compatibilidad de plataforma
@@ -164,8 +164,8 @@ def main():
         print("\n📝 En sistemas Linux, modifica main.py para usar:")
         print("   from platform_compat import proxy_toggle, gracefulExit")
 
-    print("\n🎉 ¡Listo para ejecutar PirxcyProxy!")
-    print("   Ejecuta: python main.py")
+    print("\n🎉 ¡Listo para ejecutar Marcalachu hybrid!")
+    print("   Ejecuta: python Ejecutar Hybrid.py")
 
     return 0
 
