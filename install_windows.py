@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Instalador de dependencias para PirxcyProxy en Windows
+Instalador de dependencias para Marcalachu hybrid en Windows
 """
 
 import os
@@ -104,7 +104,7 @@ def create_launcher():
 title PirxcyProxy Launcher
 cd /d "%~dp0"
 
-echo 🚀 Iniciando PirxcyProxy...
+echo 🚀 Iniciando Marcalachu hybrid...
 echo.
 
 REM Verificar si Python está disponible
