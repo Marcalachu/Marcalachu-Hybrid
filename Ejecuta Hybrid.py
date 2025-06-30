@@ -22,8 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-# Well then, I guess Marcalachu hybrid is now open source (due to virus accusations).
-# If you're gonna skid, i suggest you get some bitches first 😘
+
 
 import sys,os,requests
 if '--install' in sys.argv:
