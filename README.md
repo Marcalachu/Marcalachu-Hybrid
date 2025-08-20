@@ -40,7 +40,7 @@ A Fortnite proxy modifier that allows access to all cosmetics, change username, 
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   ```
+  or open install windows ```
 3. Configure your API Key in `config.json` (see previous section)
 4. Run the program:
    ```bash
