@@ -101,7 +101,7 @@ def install_individual_packages():
 def create_launcher():
     """Crea un launcher mejorado para Windows"""
     launcher_content = '''@echo off
-title PirxcyProxy Launcher
+title Marcalachu Hybrid
 cd /d "%~dp0"
 
 echo 🚀 Iniciando Marcalachu hybrid...
@@ -126,13 +126,13 @@ if %errorlevel% neq 0 (
 )
 '''
     
-    with open("run_pirxcy.bat", "w", encoding="utf-8") as f:
+    with open("run_Ejecuta Hybrid.py", "w", encoding="utf-8") as f:
         f.write(launcher_content)
     
     print("✅ Launcher creado: run_pirxcy.bat")
 
 def main():
-    print("🚀 PirxcyProxy - Instalador para Windows")
+    print("🚀 Marcalachu Hybrid - Instalador para Windows")
     print("=" * 50)
     
     # Verificar que estamos en Windows
